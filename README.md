@@ -1,2 +1,2 @@
 # coursera-test
-Test Tepository
+Test repository
